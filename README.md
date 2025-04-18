@@ -1,6 +1,6 @@
 # CSS Layouts and Responsive Design
 [
-](http://127.0.0.1:5500/)
+(http://127.0.0.1:5500/)]
 ## Objectives
 
 Implement Flexbox and Grid for layout design.
